@@ -1,0 +1,2 @@
+C:\Users\Daniel\documents\visual studio 2013\Projects\Defining-ClassesHomework\PCCatalog\bin\Debug\PCCatalog.exe.config
+C:\Users\Daniel\documents\visual studio 2013\Projects\Defining-ClassesHomework\PCCatalog\obj\Debug\PCCatalog.csprojResolveAssemblyReference.cache
