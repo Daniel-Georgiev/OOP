@@ -36,7 +36,8 @@ namespace Point3d
         public override string ToString()
         {
             StringBuilder output = new StringBuilder();
-            //output.AppendLine("Starting Point: " + StartPoint);
+            output.AppendLine("Starting Point: " + StartPoint);
+            //The program works without the line above
             output.AppendFormat("Point X: {0}\nPoint Y: {1}\nPoint Z: {2}", this.x, this.y, this.z);
             return output.ToString();
         }
