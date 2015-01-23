@@ -1,0 +1,6 @@
+c:\users\daniel\documents\visual studio 2013\Projects\Static-Members\Static-Members\obj\Debug\Point3d.csprojResolveAssemblyReference.cache
+c:\users\daniel\documents\visual studio 2013\Projects\Static-Members\Static-Members\bin\Debug\Static-Members.exe.config
+c:\users\daniel\documents\visual studio 2013\Projects\Static-Members\Static-Members\bin\Debug\Static-Members.exe
+c:\users\daniel\documents\visual studio 2013\Projects\Static-Members\Static-Members\bin\Debug\Static-Members.pdb
+c:\users\daniel\documents\visual studio 2013\Projects\Static-Members\Static-Members\obj\Debug\Static-Members.exe
+c:\users\daniel\documents\visual studio 2013\Projects\Static-Members\Static-Members\obj\Debug\Static-Members.pdb
